@@ -1,5 +1,5 @@
 TesteTransireAutomacao
-Teste Automatizado Rubi, Pepino e Capivara
+Teste Automatizado Rubi, cucumber e Capivara
 
 Pré-Condições: Ter configurado e instalado na máquina: -Ruby
 
